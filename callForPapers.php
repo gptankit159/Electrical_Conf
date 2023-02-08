@@ -2,8 +2,6 @@
 
 <html lang="en">
 
-
-
 <head>
 
   <!-- Required meta tags -->
@@ -16,23 +14,13 @@
 
  <?php $page = 'callForPapers'; include('styles.php') ?>
 
- 
-
 </head>
-
-
 
 <body>
 
 <?php include('navnheader.php') ?>
 
-
-
 <!-- Content  -->
-
-
-
-
 
 <div class="container-fluid pad-0">
 
@@ -259,24 +247,12 @@
         </ul>
 
     </div>
-    
-
 
     <div class="whitespace15">&nbsp;</div>
     <!-- Content  -->
-
-
-
-
   <?php include('footer.php') ?>
 
-  
-
-  
-
 </body>
-
-
 
 </html>
 
