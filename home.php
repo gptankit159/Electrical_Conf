@@ -69,7 +69,7 @@
             <div class="whitespace10">&nbsp;</div>
             <h4 class="text-weight">10<sup>th</sup> - 12<sup>th</sup> August 2023 </h4>
             <button class="btn btn_itsemc">
-                <h3 class="margin-0"><strong style="text-shadow: none;">ONLINE MODE</strong></h3>
+                <h3 class="margin-0"><strong style="text-shadow: none;">HYBRID MODE</strong></h3>
             </button>
         </div>
     </div>
@@ -90,7 +90,7 @@
         <h1 class="myh1">Publication&nbsp;<span style="font-weight: 200;">Partners</span></h1>
         <div class="pub_img " style="max-width:700px; margin:auto; display:flex;margin-top:20px; margin-bottom: 30px">
             <img src="./img/publishers/springer.png" alt="Springer">
-            <img src="./img/publishers/TnF.png" alt="">
+            <!-- <img src="./img/publishers/TnF.png" alt="Taylor & Francis"> -->
             <!-- <img src="./img/publishers/aip.png" alt=""> -->
             <!-- <img src="./img/publishers/mattoday.png" alt=""> -->
         </div>
@@ -120,7 +120,7 @@
 
         <h4>About <span>Department of Electrical Engineering</span></h4>
         <div class="whitespace5">&nbsp;</div>
-        <p class="p-2">The Department of Electrical Engineering is one of the well-established department imparting quality education to UG (Electrical) and PG (Integrated Power Systems) programme. Both UG & PG Programs of the department are accredited by National Board of Accreditation (NBA). The department also offers Ph.D. programme to promote research activities in the various areas of lectrical Engineering. The department has wide research publications in SCI index journals like IEEE Transactions,  IET, Elsevier, Journal of Power Electronics, Taylor and Francis reputed International/National  Conferences.The department is having well established laboratoriesand  computing  facility,  enrich  with  recent software'artment has good placement record and experienced and world renowned faculty members. 
+        <p class="p-2">The department of Electrical Engineering is accredited by National Board of Accreditation (NBA) and NAAC. The department is one of the well established departments imparting quality education to UG (Electrical) and PG (Integrated Power Systems) programmes. The department also offers Ph.D. programme to promote research activities in the various areas of Electrical Engineering. The department has wide research publications in reputed International/National conferences as well as SCI index journals like IEEE Transactions, IET, Elesivier, Journal of Power Electronics, Taylor & Francis etc. The department is having well established laboratories with computing facility having software's like MATLAB, EMTDC/PSCAD, SKM Power Tools, VSIM, PSIM and CASPOC.
         </p>
 
         <h4>About <span>Nagpur</span></h4>

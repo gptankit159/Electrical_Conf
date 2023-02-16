@@ -67,7 +67,7 @@
 <header>
     <div class="container hContainer">
           <div  class="IM1c" ><a href="index.php">
-            <img class="headerBanner" src="img\ycce_new.jpg" /></a>
+            <img class="headerBanner" src="img\ycceHeaderEle.jpg" /></a>
           <!-- <a style="text-decoration:none" href="index.php"> <img class="px-2" src="img/megheGroup.png" /></a> -->
           
         </div>
