@@ -107,8 +107,8 @@
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
               <li><a class="dropdown-item" href="committees.php#patrons">Patrons</a></li>
-              <!-- <li><a class="dropdown-item" href="committees.php#int_adv_com">International Advisory Committee</a></li>
-              <li><a class="dropdown-item" href="committees.php#nat_adv_com">National Advisory Committee</a></li> -->
+              <li><a class="dropdown-item" href="committees.php#adv_com">Advisory Committee</a></li>
+              <li><a class="dropdown-item" href="committees.php#TechProg">Technical Program Committee</a></li>
               <li><a class="dropdown-item" href="committees.php#org_com">Conference Chair & Organizing Secretary</a></li>
               <li><a class="dropdown-item" href="committees.php#OrganizingCommittee">Organizing Committee Members</a></li>
             </ul>

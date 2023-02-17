@@ -90,7 +90,7 @@
             </tr>
         </table>
 
-        <div id="int_adv_com" class="whitespace20">&nbsp;</div>
+        <div id="adv_com" class="whitespace20">&nbsp;</div>
         <h4>Advisory<span> Committee</span></h4>
         <div class="whitespace15">&nbsp;</div>
         <table class="table table-striped table-bordered table-hover">
@@ -205,9 +205,8 @@
             </tr>
         </table>
         <div id="nat_adv_com" class="whitespace15">&nbsp;</div>
-        <div id="org_com" class="whitespace20">&nbsp;</div>
 
-
+        <div id="TechProg" class="whitespace20">&nbsp;</div>
         <h4>Technical Program <span>Committee</span></h4>
         <div class="whitespace15">&nbsp;</div>
         <table class="table table-striped table-bordered table-hover">
@@ -283,7 +282,7 @@
             </tr>
 
         </table>
-
+        <div id="org_com" class="whitespace20">&nbsp;</div>
         <h4>Conference<span> Chair</span> & Organizing <span>Secretary</span></h4>
         <div class="whitespace15">&nbsp;</div>
 
