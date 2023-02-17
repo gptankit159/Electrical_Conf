@@ -89,8 +89,8 @@
     <div class="publication">
         <h1 class="myh1">Publication&nbsp;<span style="font-weight: 200;">Partners</span></h1>
         <div class="pub_img " style="max-width:700px; margin:auto; display:flex;margin-top:20px; margin-bottom: 30px">
-            <img src="./img/publishers/springer.png" alt="Springer">
-            <!-- <img src="./img/publishers/TnF.png" alt="Taylor & Francis"> -->
+            <!-- <img src="./img/publishers/springer.png" alt="Springer"> -->
+            <img src="./img/publishers/TnF.png" alt="Taylor & Francis">
             <!-- <img src="./img/publishers/aip.png" alt=""> -->
             <!-- <img src="./img/publishers/mattoday.png" alt=""> -->
         </div>
