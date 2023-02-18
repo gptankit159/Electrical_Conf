@@ -98,12 +98,10 @@
         <div class="row">
           <div class="col-sm-12">
             <div class="whitespace25">&nbsp;</div>
-            <h5>Shri sameer Meghe - <span>Secretary</span></h5>
+            <h5>Shri Sameer Meghe - <span>Secretary</span></h5>
             <div class="whitespace15">&nbsp;</div>
-            <p><img src="img/sagar meghe (1).jpg" width="300" style="float: left; margin-right: 20px;">
-              Secretary, Nagar Yuwak Shikshan Sanstha
-
-Treasurer, Datta Meghe Institute of Medical Sciences Ex MLC, Maharashtra State Shri Sagar Meghe personifies the concept of inclusive leadership in totality. As a leader he creates an atmosphere to stimulate diverse thinking perspectives and to converge them towards the common goals. He shoulders the responsibility of quantitative and qualitative expansion of different Educational Institutions under Meghe Group. His devout commitment towards quality education has carved a niche for Meghe Group of Educational Institutions in Vidarbha region and has earned a sterling reputation in education circles. For him education is the transformative tool for propelling inclusive society growth. His unflinching conviction for quality Education has been validated by different agencies like NABET, NBA & NAAC time and again. He believes that continuous improvement with constant innovation in the Teaching Learning process will bring in reformative change in the Education in the long run. While he set his eyes constantly on the goals for future; simultaneously he is constantly aware of the responsibilities he has to shoulder to carry on the heritage of Meghe Group.
+            <p><img src="img/sameer Meghe.jpeg" width="300" style="float: left; margin-right: 20px;">
+              Secretary, Nagar Yuwak Shikshan Sanstha Treasurer, Datta Meghe Institute of Medical Sciences Ex MLC, Maharashtra State Shri Sagar Meghe personifies the concept of inclusive leadership in totality. As a leader he creates an atmosphere to stimulate diverse thinking perspectives and to converge them towards the common goals. He shoulders the responsibility of quantitative and qualitative expansion of different Educational Institutions under Meghe Group. His devout commitment towards quality education has carved a niche for Meghe Group of Educational Institutions in Vidarbha region and has earned a sterling reputation in education circles. For him education is the transformative tool for propelling inclusive society growth. His unflinching conviction for quality Education has been validated by different agencies like NABET, NBA & NAAC time and again. He believes that continuous improvement with constant innovation in the Teaching Learning process will bring in reformative change in the Education in the long run. While he set his eyes constantly on the goals for future; simultaneously he is constantly aware of the responsibilities he has to shoulder to carry on the heritage of Meghe Group.
             </p>
 
 
@@ -115,10 +113,8 @@ Treasurer, Datta Meghe Institute of Medical Sciences Ex MLC, Maharashtra State S
             <div class="whitespace25">&nbsp;</div>
             <h5>Shri Sagar Meghe - <span>Secretary</span></h5>
             <div class="whitespace15">&nbsp;</div>
-            <p><img src="img/sameer Meghe.jpeg" width="300" style="float: left; margin-right: 20px;">
-              Secretary, Datta Meghe Institute of Medical Sciences Treasurer, Nagar Yuwak Shikshan Sanstha
-
-MLA, Maharashtra State A Nation is built only by educated and qualified youth with determination, confidence and dedication. Above quote aptly fits the young and dynamic Leader Shri Sameer Meghe. His long term vision and belief in the use of innovative practices maintains the flavour of dynamism in Meghe Group of Educational Institutions. He believes that Education stimulates young minds and makes them the change leader which is the priority for the nation today. He is instrumental in creating the blueprint for the growth path of Meghe Group of Institutions and converting that into reality.
+            <p><img src="img/sagar meghe (1).jpg" width="300" style="float: left; margin-right: 20px;">
+              Secretary, Datta Meghe Institute of Medical Sciences Treasurer, Nagar Yuwak Shikshan Sanstha MLA, Maharashtra State A Nation is built only by educated and qualified youth with determination, confidence and dedication. Above quote aptly fits the young and dynamic Leader Shri Sameer Meghe. His long term vision and belief in the use of innovative practices maintains the flavour of dynamism in Meghe Group of Educational Institutions. He believes that Education stimulates young minds and makes them the change leader which is the priority for the nation today. He is instrumental in creating the blueprint for the growth path of Meghe Group of Institutions and converting that into reality.
             </p>
           </div>
 
@@ -141,11 +137,11 @@ MLA, Maharashtra State A Nation is built only by educated and qualified youth wi
             </p>
 
 
-          </div>
+            </div>
 
+          </div>
         </div>
       </div>
-
     </div>
   </div>
   <div class="whitespace40">&nbsp;</div>
