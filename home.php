@@ -108,9 +108,9 @@
             'Autonomous' status in Central India approved by AICTE & is affiliated to Rashtrasant Tukadoji Maharaj
             Nagpur University. The college is guided by the Academic Advisory Board consisting of eminent academicians
             from the prestigious technical institutes in India and USA. Accredited by National Board of Accreditation
-            (NBA), New Delhi upto June 2023. NAAC has accredited the college with an ‘A' grade. The institute has been
+            (NBA), New Delhi. NAAC has accredited the college with an 'A++' grade. The institute has been
             ranked amongst top Engineering Institutions all over India including IITs, NITs, and Government & Autonomous
-            Engineering Institution by NIRF, MHRD, and Government of India. The Institute offers 7 UG & 6 PG courses
+            Engineering Institution by NIRF, MHRD, and Government of India. The Institute offers 8 UG & 6 PG courses
             apart from Ph.D. programmes. Since its inception, the institute has maintained a tradition of academic
             excellence and training of students for the National Service. The Institute has taken quantum jumps and is
             one of the leading institute's offering world class technical educations. The Institute has signed MoU's
@@ -157,9 +157,6 @@
                     <p>
                         Nagpur also has a rich history which can be traced back to 8th century BC. Considering the
                         recent history, the city completed 300 years of establishment in the year 2002.</p>
-                    <p>It is worth mentioning that the MIHAN is the biggest project of its type concerning economic
-                        investments. Interestingly, MIHAN has a Maintenance, Repair and Overhaul facility constructed by
-                        Boeing and it is the second such facility in the world after Shanghai.</p>
                     <p>Also, the city is counted among the most secure cities of the country; and hence, India's
                         majority gold asset is kept in Nagpur's Branch of Reserve Bank of India. <br>
                         The city is taking sturdy steps towards growth and development.

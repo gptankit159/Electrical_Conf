@@ -42,7 +42,7 @@
             <tr>
 
                 <td>Chief Patron</td>
-                <td>Hon'ble Shri. Sagarji Meghe <br>
+                <td>Hon'ble Shri. Ravi Meghe<br>
                     Secretary<br> Nagar Yuwak Shikshan Sanstha <br>
                 </td>
             </tr>
@@ -84,8 +84,8 @@
 
                 <td>Patron</td>
                 <td>Dr. Manali Kshirsagar <br>
-                    Principal <br>
-                    Rajiv Gandhi College Of Engineering, Nagpur <br>
+                    Director(Technical) &  Advisor<br>
+                    Yeshwantrao Chavan College Of Engineering, Nagpur <br>
                 </td>
             </tr>
         </table>
@@ -157,7 +157,7 @@
             <tr>
                 <td>12.</td>
                 <td>Kalyan Chatterjee</td>
-                <td>...</td>
+                <td>IIT ISM, Dhanbad</td>
             </tr>
             <tr>
                 <td>13.</td>
@@ -203,6 +203,17 @@
                 <td>Agbossou, Kodjo</td>
                 <td>Hydrogen Research Institute, Canada</td>
             </tr>
+            <tr>
+                <td>22.</td>
+                <td>Kailash Karande</td>
+                <td>SKN Sinhgad CoE, Pandharpur</td>
+            </tr>
+            <tr>
+                <td>23.</td>
+                <td>S. G. Deshmukh</td>
+                <td>SKN Sinhgad CoE, Pandharpur</td>
+            </tr>
+            
         </table>
         <div id="nat_adv_com" class="whitespace15">&nbsp;</div>
 
@@ -272,11 +283,16 @@
             </tr>
             <tr>
                 <td>12.</td>
+                <td>Ritesh Keshri</td>
+                <td>VNIT, Nagpur, India</td>
+            </tr>
+            <tr>
+                <td>13.</td>
                 <td>Mrunmayee Gujar</td>
                 <td>Boston, Massachusetts, United States</td>
             </tr>
             <tr>
-                <td>13.</td>
+                <td>14.</td>
                 <td>Anisha Kalra</td>
                 <td>Villach, Carinthia, Austria</td>
             </tr>
@@ -296,8 +312,8 @@
             <tr>
                 <td>1.</td>
                 <td>Conference Chair</td>
-                <td>Dr. S. P. Adhau</td>
-                <td>Head of The Department, Department of Electrical Engineering, YCCE, Nagpur </td>
+                <td>S. P. Adhau</td>
+                <td>Department of Electrical Engineering, YCCE, Nagpur </td>
             </tr>
             <tr>
                 <td>2.</td>
@@ -310,21 +326,21 @@
                 <td>3.</td>
                 <td>Convenor</td>
                 <td>S. G. Kadwane</td>
-                <td>Department of Electrical Engineering, YCCE, Nagpur</td>
+                <td>Head of The Department, Department of Electrical Engineering, YCCE, Nagpur</td>
             </tr>
 
             <tr>
                 <td>4.</td>
                 <td>Convenor</td>
                 <td>V. N. Pande</td>
-                <td>Department of Electrical Engineering, YCCE, Nagpur</td>
+                <td>Head of The Department, Department of Electrical Engineering, College of Engineering Pune, Technological University (COEP Tech)</td>
             </tr>
 
             <tr>
                 <td>5.</td>
                 <td>Convenor</td>
                 <td>S. J. Bhosale</td>
-                <td>Department of Electrical Engineering, Veermata Jijabai Technological Institute (VJTI), Mumbai</td>
+                <td>Head of The Department, Department of Electrical Engineering, Veermata Jijabai Technological Institute (VJTI), Mumbai</td>
             </tr>
 
             <tr>
