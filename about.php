@@ -81,11 +81,8 @@
             <p>
             <img src="img/Datta Meghe.jpg" width="280" style="float: left; margin-right: 20px;">
             Hon'ble Shri Dattaji Meghe is the architect of Nagar Yuwak Shikshan Santha, Nagpur. He has been the guiding star in spreading the light of education. His can-do-more attitude brought about an intellectual revolution that has transformed the social, educational, economic and cultural life of rural Maharashtra. <br>
-
             One lamp that lit strongly and firmly with a great vision of spreading the light of wisdom is our Hon'ble Shri Dattaji Meghe, the Chairman of Nagar Yuwak Shikshan Sanstha & Founder Chancellor of Datta Meghe Institute of Medical Sciences is in active public life for more than 45 years. He represented the people of Maharashtra in Lok Sabha for 3 consecutive terms & was the Member of Parliament (Rajya Sabha). <br>
-
             He strongly believed that quality Education & Health can only bring the true transformation of the huge human resources of our nation. <br>
-
             In pursuit of our Chairman's social commitment, a modest beginning was made by starting a small educational institute almost 40 years ago, which has grown up into an educational empire covering almost all faculties of education spread all over Maharashtra state.
             </p>
 
@@ -123,7 +120,7 @@
         <div class="row">
           <div class="col-sm-12">
             <div class="whitespace25">&nbsp;</div>
-            <h5>Dr.U.P. Waghe - <span>Principal</span></h5>
+            <h5>Dr.U.P. Waghe <span>Principal</span></h5>
             <div class="whitespace15">&nbsp;</div>
             <p><img src="img/UPWaghe.jpg" width="280" style="float: left; margin-right: 20px;">
             I welcome one and all to Yeshwantrao Chavan College of Engineering, Nagpur, an autonomous institution affiliated to RTM Nagpur University. YCCE is committed in providing quality/relevant education and to enhance its practices by applying Best National and International practices.
